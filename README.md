@@ -1,2 +1,1 @@
-"Anson Davis" 
-17
+"Anson Davis"
